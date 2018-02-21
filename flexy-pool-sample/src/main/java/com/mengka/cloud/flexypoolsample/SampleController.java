@@ -31,6 +31,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
+ * 》》FlexyPool：
+ *  FlexyPool adds metrics and failover strategies to a given Connection Pool, allowing it to resize on demand.
+ *  FlexyPool添加连接池监控指标，以及故障转移策略到数据库连接池，可以根据需要动态调整大小。
  *
  * 》》【flexy-pool Druid Configuration】：
  *  https://github.com/vladmihalcea/flexy-pool/wiki/Druid-Configuration
