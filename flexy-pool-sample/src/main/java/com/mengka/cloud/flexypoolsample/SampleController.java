@@ -30,6 +30,23 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ *
+ * 》》【flexy-pool Druid Configuration】：
+ *  https://github.com/vladmihalcea/flexy-pool/wiki/Druid-Configuration
+ *
+ * 》》【github代码】：
+ * https://github.com/vladmihalcea/flexy-pool
+ *
+ * 》》【flexy-pool-spring-boot-starter】：
+ * https://github.com/gavlyukovskiy/spring-boot-data-source-decorator
+ *
+ * 》》【分布式调用追踪】：
+ * Distributed tracing for spring cloud http://cloud.spring.io
+ *
+ * https://github.com/spring-cloud/spring-cloud-sleuth
+ *
+ */
 @Slf4j
 @RestController
 @RequestMapping
