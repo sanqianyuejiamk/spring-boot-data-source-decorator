@@ -6,3 +6,5 @@ Spring Boot autoconfiguration for integration with
 * [FlexyPool](https://github.com/vladmihalcea/flexy-pool) - adds connection pool metrics (jmx, codahale, dropwizard) and flexible strategies for adjusting pool size on demand
 * [Spring Cloud Sleuth](https://github.com/spring-cloud/spring-cloud-sleuth) - library for distributed tracing, if found in classpath enables jdbc connections (p6spy) and queries (p6spy, datasource-proxy) tracing 
 
+**使用文档**
+https://github.com/gavlyukovskiy/spring-boot-data-source-decorator/blob/master/README.md
